@@ -1,5 +1,4 @@
 # Capstone
-My Capstone projects uses a neural network to project statistics throughout the 2017-2018 NBA regular season
 
 
 Problem: 
