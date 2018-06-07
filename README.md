@@ -3,7 +3,7 @@
 
 Problem: 
 
-People are predicting NBA analytics everywhere. The potential for the legalization of sports gambling within the US is subject to change, which would open a new market for sports betting outside daily fantasy sports(DFS) and betting in casinos in Las Vegas. 
+People are predicting NBA statistics everywhere. The legalization of sports gambling within the US is now upon us and it has  opened the potential for a new kind of sports betting. The current existance of Daily Fantasy Sports(DFS) has already created an importance for deeping our understanding of sports analytics to better understand what we are consuming. It has also created a need to gather more data outside of what we have now. I set out to predict NBA box score statistics with the hope to predict a players output based on who they were playing and how they had recently played.
 
 Data: 
 
@@ -17,7 +17,6 @@ I also received the following datasets for box score statistics broken down by g
 The 2 major benefits to choosing the NBA was availability of data and timing. 
 -	The NBA has an enormous variety of advanced analytics that are accessible to consumers and BasketballReference.com is very friendly for web scraping.  
 -	On top of this, by the time I turn in this project the NBA will have completed just over 96% of its season. That has translated to almost 25,000 rows of data and 650 different players. 
-
 
 Exploratory Data Analysis
 
